@@ -24,6 +24,8 @@
             //UC_6
             ComputeQandR.CheckQuotientRemainder();
             Console.WriteLine("------------------------");
+            //UC_7
+            SwappingNumbers.SwapingTheNumbers();
         }
     }
 }
