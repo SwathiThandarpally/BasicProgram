@@ -14,6 +14,9 @@
             Console.WriteLine("------------------------");
             //UC_3
             PowerOfTwo.Power();
+            Console.WriteLine("------------------------");
+            //UC_4
+            HarmonicNumber.checkHarmonicSeries();
         }
     }
 }
