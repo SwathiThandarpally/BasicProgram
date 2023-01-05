@@ -20,6 +20,10 @@
             Console.WriteLine("------------------------");
             //UC_5
             Factor.CheckFactor();
+            Console.WriteLine("------------------------");
+            //UC_6
+            ComputeQandR.CheckQuotientRemainder();
+            Console.WriteLine("------------------------");
         }
     }
 }
