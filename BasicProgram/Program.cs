@@ -33,6 +33,8 @@
             //UC_9
             AlphabetChecking.Checking();
             Console.WriteLine("------------------------");
+            //UC_10
+            Finding_Largest.CheckLargestNumber();
         }
     }
 }
