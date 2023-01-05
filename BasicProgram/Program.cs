@@ -26,6 +26,9 @@
             Console.WriteLine("------------------------");
             //UC_7
             SwappingNumbers.SwapingTheNumbers();
+            Console.WriteLine("------------------------");
+            //UC_8
+            EVENorODD.CheckEvenOrOdd();
         }
     }
 }
