@@ -29,6 +29,10 @@
             Console.WriteLine("------------------------");
             //UC_8
             EVENorODD.CheckEvenOrOdd();
+            Console.WriteLine("------------------------");
+            //UC_9
+            AlphabetChecking.Checking();
+            Console.WriteLine("------------------------");
         }
     }
 }
