@@ -17,6 +17,9 @@
             Console.WriteLine("------------------------");
             //UC_4
             HarmonicNumber.checkHarmonicSeries();
+            Console.WriteLine("------------------------");
+            //UC_5
+            Factor.CheckFactor();
         }
     }
 }
