@@ -11,6 +11,9 @@
             Console.WriteLine("------------------------");
             //UC_2
             LeapYear.Year();
+            Console.WriteLine("------------------------");
+            //UC_3
+            PowerOfTwo.Power();
         }
     }
 }
